@@ -1,0 +1,2 @@
+Course: ip, Hours Per Week: 1, Slot: monday 2:00
+Course: IPL, Hours Per Week: 1, Slot: WED 3:00
